@@ -9,3 +9,14 @@ title:               Study Notes
 sass:
   sass_dir:          _sass
   style:            :compressed
+
+
+# enable the comment
+comments: true
+
+# comment repository
+github_username: firstmustok
+repo: study
+
+
+
